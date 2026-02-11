@@ -3,7 +3,7 @@ const axios = require('axios');
 const { DateTime } = require('luxon');
 
 const app = express();
-const OWNER_NAME = "ZEXX_OWNER";
+const OWNER_NAME = "ZEXX_CYBER";
 
 // 🔑 Keys Database
 const KEYS_DB = {
